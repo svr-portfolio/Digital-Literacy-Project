@@ -4,32 +4,27 @@
 ## Branch: B.Tech, CSE (AI & ML)  
 ## Year: First Year  
 
----
 
-## Project Overview
-This project is created as part of the CSE0001 – Digital Literacy course. It includes five tasks that focus on digital awareness, online platforms, communication skills, and cyber safety.
+## Overview of the Project
+The CSE0001: Digital Literacy course is where this project came from. There are five different activities in the project, and they all deal with different parts of digital awareness, digital platforms, communication skills, and staying safe online.
 
----
 
 ## Objectives
-- To understand the importance of digital literacy  
-- To learn safe and responsible use of digital platforms  
-- To build a professional online presence  
-- To improve communication skills in digital environments  
-- To develop awareness about cybercrime and prevention  
+- To learn how important it is to be digitally literate
+- To find out how to use digital platforms safely and correctly
+- To create a professional online presence
+- To improve your ability to communicate in the digital world
+- To make people more aware of cybercrime and how to stay safe
+  
 
----
-
-## Tools & Platforms Used
-- Canva (for infographic design)  
-- GitHub (for project submission and portfolio)  
-- LinkedIn (for professional networking)  
-- Kaggle (for data science learning)  
-- HackerRank (for coding practice)  
-- Google Forms (for quiz creation)  
-
----
-
+## Tools and Platforms Used
+- Canva (to make infographics)
+- GitHub (to turn in the project and build a portfolio)
+- LinkedIn (for making business contacts)
+- Kaggle (to learn about data science)
+- HackerRank (for writing code)
+- Google Forms (to make tests)
+  
 ## Repository Structure
 - README.md → Project overview and details  
 - report → Final project report  
@@ -39,41 +34,34 @@ This project is created as part of the CSE0001 – Digital Literacy course. It i
 - task-4-email-etiquette → Emails and checklist  
 - task-5-cybercrime → Case study and prevention checklist  
 
----
 
 ## Task 1 – Infographic
-Created a digital literacy infographic using Canva covering safe internet practices and useful tools.
+Developed an infographic on digital literacy using Canva related to internet safety and digital tools.
 
----
 
 ## Task 2 – Digital Portfolio
-Created profiles on GitHub, LinkedIn, and Kaggle to build a professional presence.
+Developed a profile on GitHub, LinkedIn, and Kaggle to establish a digital profile.
 
----
 
 ## Task 3 – Platforms
-Solved a beginner-level coding problem on HackerRank and created a Google Form quiz on digital literacy.
+Solved a simple coding problem using HackerRank and developed a Google form quiz on digital literacy.
 
----
 
 ## Task 4 – Email Etiquette
-Drafted professional emails and created a social media checklist for responsible online behavior.
+Developed professional emails and created a social media checklist on responsible social behavior.
 
----
 
 ## Task 5 – Cybercrime Awareness
-Prepared a case study on UPI fraud and created a prevention checklist for students.
+Developed a case study on UPI scams and created a checklist on how students can be aware of cybercrime.
 
----
 
 ## Key Learnings
-- Importance of digital safety and awareness  
-- How to build a professional online profile  
-- Basics of coding and form creation  
-- Proper email communication etiquette  
-- Awareness of cybercrime and preventive measures  
+- The importance of digital safety and awareness  
+- How to establish a digital profile  
+- Basics of coding  
+- Email etiquette  
+- Awareness about cybercrime and how to stay away from it
 
----
 
 ## Google Form Link
 https://docs.google.com/forms/d/e/1FAIpQLSdHyfPFjjxj3JID8pK1lXfYhm9FYAQBRICeh01htmovEgxjOQ/viewform?usp=header
